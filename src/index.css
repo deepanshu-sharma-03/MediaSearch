@@ -1,0 +1,19 @@
+@import "tailwindcss";
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-weight: 500;
+    /* font-size:1rem; */
+    font-family: helvetica neue;
+}
+#bottom{
+    background: linear-gradient(transparent, black);
+}
+
+:root{
+    --c1:rgb(13, 51, 95);
+    --c2:rgb(26,61,100);
+    --c3:rgb(29,84,108);
+    --c4:rgb(244,244,244);
+}
